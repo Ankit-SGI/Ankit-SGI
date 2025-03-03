@@ -5,13 +5,10 @@ Welcome to my GitHub profile! I'm passionate about all things tech and am consta
 - Everything tech-related 🌐
 - Building innovative solutions with cutting-edge technologies
 
-## 🌱 Currently Learning
-- MERN Stack (MongoDB, Express.js, React, Node.js)
-- Next.js
+## 🌱 Currently Working with
+- MERN Stack React, Tailwind
 - TypeScript (TS)
 - JavaScript (JS)
-- Docker & Containerization
-- CI/CD (Continuous Integration/Continuous Deployment)
 - Deep knowledge of Node.js
 
 ## 📫 How to Reach Me
