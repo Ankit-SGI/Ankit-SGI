@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Ankit-SGI
+# 👋 Hi, I’m @Ankit from SGI Techlabs
 Welcome to my GitHub profile! I'm passionate about all things tech and am constantly exploring new areas of interest.
 
 ## 👀 Interests
